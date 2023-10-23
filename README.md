@@ -39,10 +39,15 @@ The restaurant features a locally-sourced menu with daily specials.
 
 ## Designs and Prototypes
 
-### Home, Menu items and Order screens
+### Home and Onboarding Screens
 
-| <img src="Prototypes/home.png" width="300" height="600"> | <img src="Prototypes/item-description.png" width="300" height="600"> | <img src="Prototypes/preeorder-confirmation.png" width="300" height="600"> |
-|:---:|:---:|:---:|
+| <img src="Prototypes/user-details-screen.png" width="300" height="600"> | <img src="Prototypes/home.png" width="300" height="600"> |
+|:---:|:---:|
+
+### Menu items and Order screens
+
+| <img src="Prototypes/item-description.png" width="300" height="600"> | <img src="Prototypes/preeorder-confirmation.png" width="300" height="600"> |
+|:---:|:---:|
 
 ### Reservation / Book a table screens
 | <img src="Prototypes/Book-table.png" width="300" height="600"> | <img src="Prototypes/Confirm-booking.png" width="300" height="600"> |
