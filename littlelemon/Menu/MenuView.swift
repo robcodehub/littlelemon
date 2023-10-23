@@ -37,7 +37,7 @@ struct MenuView: View {
                     SearchBar(searchText: $searchText)
                 }.background(Colors.primaryColor1)
                 
-                CategoryView(onCatagorySelected: { category in
+                CategoryView(onCategorySelected: { category in
                     categorySelected = category
                 })
                 

@@ -13,6 +13,6 @@ public class Dish: NSManagedObject {
     @NSManaged public var title: String?
     @NSManaged public var desc: String?
     @NSManaged public var image: String?
-    @NSManaged public var price: String
+    @NSManaged public var price: String?
     @NSManaged public var category: String?
 }
