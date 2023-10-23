@@ -9,9 +9,12 @@ import SwiftUI
 
 @main
 struct littlelemonApp: App {
+    let persistence = PersistenceController.shared
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
+                .environment(\.managedObjectContext, persistence.container.viewContext)
         }
     }
 }

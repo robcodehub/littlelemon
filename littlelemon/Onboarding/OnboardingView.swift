@@ -20,7 +20,7 @@ struct OnboardingView: View {
                 NavigationLink(destination: MainView(), isActive: $isLoggedIn) {
                     EmptyView()
                 }
-                Image("logo")
+                Image("littleLemon")
                     .resizable()
                     .aspectRatio(contentMode: .fit)
                     .frame(width: 200)
@@ -34,6 +34,7 @@ struct OnboardingView: View {
                 )
                 Spacer()
             }
+            Spacer()
         }
         .onAppear(){
             if UserDefaults.standard.bool(forKey: "IsLoggedInKey") {

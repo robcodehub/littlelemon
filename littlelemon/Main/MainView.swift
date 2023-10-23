@@ -23,6 +23,7 @@ struct MainView: View {
                     OnboardingView(isLoggedIn: $isLoggedIn)
                 }
             }
+            
         }
         .onAppear(){
             if UserDefaults.standard.bool(forKey: "IsLoggedInKey") {
