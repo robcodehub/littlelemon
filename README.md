@@ -48,7 +48,7 @@ The restaurant features a locally-sourced menu with daily specials.
 
 ### Onboarding, Home and User Profile screens 
 
-| <img src="Images/onboarding-registration.png" width="280" height="580"> | <img src="Images/home-screen-logged-in.png" width="280" height="580"> | <img src="Images/user-profile-screen.png" width="280" height="580">  
+| <img src="Images/onboarding-registration.png" width="300" height="580"> | <img src="Images/home-screen-logged-in.png" width="300" height="580"> | <img src="Images/user-profile-screen.png" width="300" height="580">  
 |:---:|:---:|:---:|
 
 ## Designs and Prototypes of Proposed Features
