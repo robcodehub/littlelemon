@@ -5,8 +5,7 @@
 The below video shows a walkthrough of the app and it's features. </br>
 Click play on the below video to view the app features:
 
-https://github.com/robcodehub/littlelemon/assets/50296456/01dfce02-cd05-4923-a738-76459bb52ba0
-
+https://github.com/robcodehub/littlelemon/assets/50296456/ce17f36f-19aa-4540-ab52-11973b39fab6
 
 ## About the Brand
 
@@ -69,7 +68,7 @@ The below video demostrates a walkthrough of the app and it's features.</br>
 This was provided at the start of the readme, but is included for end of the readme as well for convenience.</br></br> 
 Click play on the below video to view the app features:
 
-https://github.com/robcodehub/littlelemon/assets/50296456/01dfce02-cd05-4923-a738-76459bb52ba0
+https://github.com/robcodehub/littlelemon/assets/50296456/ce17f36f-19aa-4540-ab52-11973b39fab6
 
 
 
