@@ -1,8 +1,16 @@
 # Little Lemon iOS Capstone Project
 
-<img src="Prototypes/Desktop-design.png" width="900" height="600">
+### Video of App Features
+
+The below video shows a walkthrough of the app and it's features. </br>
+Click play on the below video to view the app features:
+
+https://github.com/robcodehub/littlelemon/assets/50296456/01dfce02-cd05-4923-a738-76459bb52ba0
+
 
 ## About the Brand
+
+<img src="Prototypes/Desktop-design.png" width="800" height="500">
 
 Little Lemon is a charming neighborhood bistro that serves simple food and classic cocktails in a lively but casual environment. </br>
 The restaurant features a locally-sourced menu with daily specials.
@@ -39,10 +47,12 @@ The restaurant features a locally-sourced menu with daily specials.
 
 ## Designs and Prototypes
 
-### Home and Onboarding Screens
+### Onboarding, Home and User Profile screens 
 
-| <img src="Prototypes/user-details-screen.png" width="300" height="600"> | <img src="Prototypes/home.png" width="300" height="600"> |
-|:---:|:---:|
+| <img src="Images/onboarding-registration.png" width="300" height="600"> | <img src="Images/home-screen-logged-in.png" width="300" height="600"> | <img src="Images/user-profile-screen.png" width="300" height="600"> 
+|:---:|:---:|:---:|
+
+## Designs and Prototypes of Proposed Features
 
 ### Menu items and Order screens
 
@@ -52,4 +62,17 @@ The restaurant features a locally-sourced menu with daily specials.
 ### Reservation / Book a table screens
 | <img src="Prototypes/Book-table.png" width="300" height="600"> | <img src="Prototypes/Confirm-booking.png" width="300" height="600"> |
 |:---:|:---:|
+
+### Video Walthrough of Current App
+
+The below video demostrates a walkthrough of the app and it's features.</br> 
+This was provided at the start of the readme, but is included for end of the readme as well for convenience.</br></br> 
+Click play on the below video to view the app features:
+
+https://github.com/robcodehub/littlelemon/assets/50296456/01dfce02-cd05-4923-a738-76459bb52ba0
+
+
+
+
+
 
