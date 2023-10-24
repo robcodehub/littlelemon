@@ -10,38 +10,38 @@ import SwiftUI
 
 struct Fonts {
     static var displayFont: Font {
-        return Font.custom("MarkaziText-Regular", size: 48).weight(.medium)
+        return Font.custom("Times", size: 48).weight(.medium)
     }
     
     static func subTitleFont() -> Font {
-        return Font.custom("MarkaziText-Regular", size: 32).weight(.medium)
+        return Font.custom("Times", size: 32).weight(.medium)
     }
     
     static func leadText() -> Font {
-        return Font.custom("Karla-Regular", size: 16).weight(.medium)
+        return Font.system(size: 16, weight: .medium, design: .default)
     }
     
     static func labelText() -> Font {
-        return Font.custom("Karla-Regular", size: 16).weight(.bold)
+        return Font.system(size: 16, weight: .bold, design: .default)
     }
     
     static func regularText() -> Font {
-        return Font.custom("MarkaziText-Regular", size: 18)
+        return Font.custom("Times", size: 18)
     }
     
     static func sectionTitle() -> Font {
-        return Font.custom("Karla-Regular", size: 18).weight(.black)
+        return Font.system(size: 18, weight: .black, design: .default)
     }
     
     static func sectionCategories() -> Font {
-        return Font.custom("Karla-Regular", size: 16).weight(.heavy)
+        return Font.system(size: 18, weight: .heavy, design: .default)
     }
     
     static func paragraphText() -> Font {
-        return Font.custom("Karla-Regular", size: 14)
+        return Font.system(size: 14, weight: .medium, design: .default)
     }
     
     static func highlightText() -> Font {
-        return Font.custom("Karla-Regular", size: 14).weight(.medium)
+        return Font.system(size: 14, weight: .medium, design: .default)
     }
 }

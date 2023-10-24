@@ -37,7 +37,7 @@ struct MenuView: View {
                     SearchBar(searchText: $searchText)
                 }.background(Colors.primaryColor1)
                 
-                CategoryView(onCatagorySelected: { category in
+                CategoryView(onCategorySelected: { category in
                     categorySelected = category
                 })
                 
@@ -114,7 +114,7 @@ private struct MenuNavigationBar: View {
     
     var body: some View {
         ZStack(alignment: .trailing) {
-            Image("logo")
+            Image("littleLemon")
                 .resizable()
                 .aspectRatio(contentMode: .fit)
                 .frame(width: 200)
