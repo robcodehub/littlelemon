@@ -17,7 +17,7 @@ struct OnboardingView: View {
     var body: some View {
         NavigationView {
             VStack {
-                NavigationLink(destination: MainView(), isActive: $isLoggedIn) {
+                NavigationLink(destination: Onboarding(), isActive: $isLoggedIn) {
                     EmptyView()
                 }
                 Image("littleLemon")
@@ -44,7 +44,7 @@ struct OnboardingView: View {
     }
 }
 
-struct Onboarding_Previews: PreviewProvider {
+struct OnboardingView_Previews: PreviewProvider {
     @State static var isLoggedIn = true
     
     static var previews: some View {

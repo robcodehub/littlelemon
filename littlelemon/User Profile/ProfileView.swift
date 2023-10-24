@@ -26,7 +26,7 @@ struct ProfileView: View {
                 self.presentation.wrappedValue.dismiss()
             })
             NavigationLink(
-                destination: MainView(),
+                destination: Onboarding(),
                 isActive: $navigateToOnboardingView,
                 label: { EmptyView() }
             )
