@@ -26,8 +26,6 @@
 		7AC21AFD2AE7034D001D1975 /* HeroBanner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AC21AFC2AE7034D001D1975 /* HeroBanner.swift */; };
 		7AC21B012AE703E5001D1975 /* RegistrationForm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AC21B002AE703E5001D1975 /* RegistrationForm.swift */; };
 		7AC21B052AE704B9001D1975 /* Fonts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AC21B042AE704B9001D1975 /* Fonts.swift */; };
-		7AC21B082AE7054B001D1975 /* markazi_text_regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7AC21B062AE7054B001D1975 /* markazi_text_regular.ttf */; };
-		7AC21B092AE7054B001D1975 /* karla_regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7AC21B072AE7054B001D1975 /* karla_regular.ttf */; };
 		7AC21B0C2AE70597001D1975 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AC21B0B2AE70597001D1975 /* Colors.swift */; };
 		7AC21B0F2AE707FC001D1975 /* ComponentStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AC21B0E2AE707FC001D1975 /* ComponentStyles.swift */; };
 		7AC21B112AE7085B001D1975 /* UserSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AC21B102AE7085B001D1975 /* UserSettings.swift */; };
@@ -58,8 +56,6 @@
 		7AC21AFC2AE7034D001D1975 /* HeroBanner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroBanner.swift; sourceTree = "<group>"; };
 		7AC21B002AE703E5001D1975 /* RegistrationForm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationForm.swift; sourceTree = "<group>"; };
 		7AC21B042AE704B9001D1975 /* Fonts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fonts.swift; sourceTree = "<group>"; };
-		7AC21B062AE7054B001D1975 /* markazi_text_regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = markazi_text_regular.ttf; sourceTree = "<group>"; };
-		7AC21B072AE7054B001D1975 /* karla_regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = karla_regular.ttf; sourceTree = "<group>"; };
 		7AC21B0B2AE70597001D1975 /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
 		7AC21B0E2AE707FC001D1975 /* ComponentStyles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComponentStyles.swift; sourceTree = "<group>"; };
 		7AC21B102AE7085B001D1975 /* UserSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserSettings.swift; sourceTree = "<group>"; };
@@ -194,8 +190,6 @@
 			isa = PBXGroup;
 			children = (
 				7AC21B042AE704B9001D1975 /* Fonts.swift */,
-				7AC21B072AE7054B001D1975 /* karla_regular.ttf */,
-				7AC21B062AE7054B001D1975 /* markazi_text_regular.ttf */,
 			);
 			path = Typography;
 			sourceTree = "<group>";
@@ -293,8 +287,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				7A1E798C2AE710A50007804F /* menu.json in Resources */,
-				7AC21B082AE7054B001D1975 /* markazi_text_regular.ttf in Resources */,
-				7AC21B092AE7054B001D1975 /* karla_regular.ttf in Resources */,
 				7A9380CF2AE6826800820BC8 /* Preview Assets.xcassets in Resources */,
 				7A9380CC2AE6826800820BC8 /* Assets.xcassets in Resources */,
 			);

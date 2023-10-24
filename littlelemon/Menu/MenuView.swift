@@ -114,7 +114,7 @@ private struct MenuNavigationBar: View {
     
     var body: some View {
         ZStack(alignment: .trailing) {
-            Image("logo")
+            Image("littleLemon")
                 .resizable()
                 .aspectRatio(contentMode: .fit)
                 .frame(width: 200)

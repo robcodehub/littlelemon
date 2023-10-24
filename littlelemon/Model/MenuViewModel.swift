@@ -10,7 +10,7 @@ import Foundation
 import CoreData
 
 class MenuViewModel: ObservableObject {
-    private let networkURLString = "https://github.com/robcodehub/littlelemon/blob/06f18b513e53107b8fe18248702a7ee5410a9518/littlelemon/Menu/Data/menu.json"
+    private let networkURLString = "https://raw.githubusercontent.com/Meta-Mobile-Developer-PC/Working-With-Data-API/main/menu.json"
     
     @MainActor
     func getMenuData(context: NSManagedObjectContext) async throws {
